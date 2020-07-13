@@ -1,0 +1,6 @@
+file-id: 140
+desc: A colorset made by that annoying kid that spammed a lot years ago.
+icon: paintbrush_16
+type: Color-Sets
+title: Chazpelo&#039;s Colorset
+version: 2.2.0
