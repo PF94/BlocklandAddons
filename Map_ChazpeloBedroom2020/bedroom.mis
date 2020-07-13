@@ -2,7 +2,7 @@
 new SimGroup(MissionGroup) {
 
    new ScriptObject(MissionInfo) {
-         name = "Bedroom";
+         name = "SlyAlligator's Bedroom Retexture";
          saveName = "Bedroom";
    };
    new MissionArea(MissionArea) {
